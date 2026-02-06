@@ -2,7 +2,7 @@
 
 I am a 2nd-year Computer Science student at **Politechnika Częstochowska**, passionate about .NET development and Backend engineering.
 
-- 🔭 I’m currently working on **[Название твоего C# проекта]**
+- 🔭 I’m currently working on **Smart Warehouse**
 - 🌱 I’m currently learning **ASP.NET Core & Advanced Algorithms**
 - 📫 How to reach me: **girmanvlad13@gmail.com**
 
